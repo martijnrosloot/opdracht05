@@ -1,0 +1,30 @@
+body {color: red;}
+body {margin: 10px;}
+
+.black-border {
+    border: 5px solid black;
+}
+#green-background {
+    background-color: green;
+}
+.red-border {
+    padding-top: 20px;
+    margin: 15px;
+    border: 10px solid red; 
+}
+.red-border {padding-left: 30px;} 
+ul {
+    list-style-type: none;
+    margin: 15;
+    padding: 30px;
+  }
+ .inline {
+    float: left;
+  }
+  
+  .inline {
+    display: block;
+    padding: 8px;
+    margin: 10px;
+    background-color: #dddddd;
+  }
